@@ -1,6 +1,3 @@
 [submodule "laradock"]
 	path = laradock
 	url = https://github.com/Laradock/laradock.git
-[submodule "marketplace-l6"]
-	path = marketplace-l6
-	url = https://github.com/erickfirmo/marketplace-l6.git
